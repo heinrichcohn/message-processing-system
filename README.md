@@ -1,4 +1,4 @@
-# Messages Processing System 
+# Message Processing System 
 
 ## Overview ##
 This repository contains a demo of a basic message processing system.
